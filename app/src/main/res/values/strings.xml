@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Try Your Luck</string>
+    <string name="app_name_after">Roulets App</string>
+    <string name="text_bottom">Войти в свою учетную запись</string>
+    <string name="app_in_name">Authoriz</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnReg">Зарегестрироваться</string>
+</resources>

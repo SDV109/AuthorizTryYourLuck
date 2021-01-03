@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456400769654",
+    "project_id": "tylkurs",
+    "storage_bucket": "tylkurs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456400769654:android:cbe657288dc65bb6f14557",
+        "android_client_info": {
+          "package_name": "com.example.tryyourluck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456400769654-9rf0l42vocctfac7euae4m8fgvmog7jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tryyourluck",
+            "certificate_hash": "7cfc176b252ab38d404bdc5d7462decb6eb786e4"
+          }
+        },
+        {
+          "client_id": "456400769654-5ne81j1be2fjh6bt1031rbknct8onggq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaXxQYZntjWenMr7i0WQ8qn-enPUv0Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456400769654-5ne81j1be2fjh6bt1031rbknct8onggq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
